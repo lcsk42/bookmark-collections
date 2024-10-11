@@ -1,4 +1,4 @@
-- [如何优化 node 项目的 docker 镜像（像老板压榨员工一样压榨镜像）本文将以 Node 程序展示如何优化 Doc - 掘金](https://juejin.cn/post/6991689670027542564) #backend#docker#blog
+- [如何优化 Node 项目的 Docker 镜像（Multi-stage builds）](https://juejin.cn/post/6991689670027542564) #backend#docker#blog
 - [The Twelve-Factor App （简体中文）](https://12factor.net/zh_cn/) SaaS 应用方法论 #read#document
 - [为什么应该旗帜鲜明地批判加班文化](https://farer.org/2019/02/03/peopleware/) #life
 
