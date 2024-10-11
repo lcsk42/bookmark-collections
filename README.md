@@ -1,3 +1,4 @@
+- [中外程序员差异](https://catcoding.me/p/diff/) #blog
 - [[译] 长文写作的魔力](https://arthurchiao.github.io/blog/writing-is-magic-zh/) #blog
 - [提示工程指南](https://www.promptingguide.ai/zh) #book
 - [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #book
