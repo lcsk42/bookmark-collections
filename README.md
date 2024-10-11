@@ -1,3 +1,4 @@
+- [提示工程指南](https://www.promptingguide.ai/zh) #book
 - [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #book
 - [Unit Testing Spring Boot REST API Controller](https://www.javaguides.net/2024/09/unit-testing-spring-boot-rest-api.html) #backend
 - [当 Git 出现问题应如何应对](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) #tools
