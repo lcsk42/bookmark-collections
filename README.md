@@ -1,3 +1,4 @@
+- [为什么应该旗帜鲜明地批判加班文化](https://farer.org/2019/02/03/peopleware/) #life
 
 # About
 
