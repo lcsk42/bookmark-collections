@@ -1,3 +1,4 @@
+- [离谱的英语学习指南](https://babyyoung.gitbook.io/english-level-up-tips/) #book
 - [语法俱乐部](https://llwslc.github.io/grammar-club/content/Preface.html) #tutorial
 - [tcpdump 使用指南](https://www.cnblogs.com/wongbingming/p/13212306.html) #tools
 - [中外程序员差异](https://catcoding.me/p/diff/) #blog
