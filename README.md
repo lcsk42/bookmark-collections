@@ -1,3 +1,4 @@
+- [Next.js 中文文档](https://nextjscn.org/docs/getting-started/installation) #document
 - [DDIA](https://vonng.gitbooks.io/ddia-cn/content/) #book
 - [离谱的英语学习指南](https://babyyoung.gitbook.io/english-level-up-tips/) #book
 - [语法俱乐部](https://llwslc.github.io/grammar-club/content/Preface.html) #tutorial
