@@ -1,3 +1,4 @@
+- [系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #book
 - [Next.js 中文文档](https://nextjscn.org/docs/getting-started/installation) #document
 - [DDIA](https://vonng.gitbooks.io/ddia-cn/content/) #book
 - [离谱的英语学习指南](https://babyyoung.gitbook.io/english-level-up-tips/) #book
