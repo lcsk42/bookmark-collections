@@ -1,3 +1,4 @@
+- [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/) #book
 - [BFF Patterns](https://bff-patterns.com/) #document
 - [为什么应该旗帜鲜明地批判加班文化](https://farer.org/2019/02/03/peopleware/) #life
 - [中文文案排版细则](https://dawner.top/posts/chinese-copywriting-rules/) #guide
