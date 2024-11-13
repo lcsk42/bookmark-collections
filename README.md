@@ -1,3 +1,4 @@
+- [中文文案排版细则](https://dawner.top/posts/chinese-copywriting-rules/) #guide
 - [系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #book
 - [Next.js 中文文档](https://nextjscn.org/docs/getting-started/installation) #document
 - [DDIA](https://vonng.gitbooks.io/ddia-cn/content/) #book
