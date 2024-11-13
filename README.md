@@ -1,3 +1,4 @@
+- [凤凰架构](https://icyfenix.cn/summary/) #book
 - [编程中的警句](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) #guide
 - [Technical Writing](https://developers.google.com/tech-writing) #guide
 - [functional-programming](https://github.com/hemanth/functional-programming-jargon) #document
