@@ -1,3 +1,4 @@
+- [编程中的警句](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) #guide
 - [Technical Writing](https://developers.google.com/tech-writing) #guide
 - [functional-programming](https://github.com/hemanth/functional-programming-jargon) #document
 - [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/) #book
