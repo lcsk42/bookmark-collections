@@ -1,3 +1,4 @@
+- [一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html) #blog
 - [Wireshark常用功能笔记](https://www.ilikejobs.com/posts/wireshark/) #blog
 - [凤凰架构](https://icyfenix.cn/summary/) #book
 - [编程中的警句](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) #guide
