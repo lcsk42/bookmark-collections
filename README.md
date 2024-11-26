@@ -1,3 +1,4 @@
+- [Kubernetes 部署应用最佳实践](https://www.haxi.cc/archives/kubernetes-deploy-a-service-best-practice.html) #k8s
 - [Golang第二语言指南](https://nanmu.me/zh-cn/posts/2021/way-to-go/) #document
 - [Java知识库网站收集整理](https://www.wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118) #document
 - [一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html) #blog
