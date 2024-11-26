@@ -1,3 +1,4 @@
+- [Java知识库网站收集整理](https://www.wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118) #document
 - [一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html) #blog
 - [Wireshark常用功能笔记](https://www.ilikejobs.com/posts/wireshark/) #blog
 - [凤凰架构](https://icyfenix.cn/summary/) #book
