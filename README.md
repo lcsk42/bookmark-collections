@@ -1,3 +1,4 @@
+- [git仓库清理](https://juejin.cn/post/7024922528514572302) #blog
 - [Just 用户指南](https://just.systems/man/zh/) #tools
 - [Kubernetes 部署应用最佳实践](https://www.haxi.cc/archives/kubernetes-deploy-a-service-best-practice.html) #k8s
 - [Golang第二语言指南](https://nanmu.me/zh-cn/posts/2021/way-to-go/) #document
