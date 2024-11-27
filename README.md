@@ -1,3 +1,4 @@
+- [golang 项目目录结构](https://makeoptim.com/golang/standards/project-layout/) #tutorial
 - [git仓库清理](https://juejin.cn/post/7024922528514572302) #blog
 - [Just 用户指南](https://just.systems/man/zh/) #tools
 - [Kubernetes 部署应用最佳实践](https://www.haxi.cc/archives/kubernetes-deploy-a-service-best-practice.html) #k8s
