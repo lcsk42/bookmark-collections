@@ -1,3 +1,4 @@
+- [万字总结，体系化带你全面认识 Nginx ！](https://juejin.cn/post/6942607113118023710) #document
 - [Kubernetes指南](https://kubernetes.feisky.xyz) #book
 - [golang 项目目录结构](https://makeoptim.com/golang/standards/project-layout/) #tutorial
 - [git仓库清理](https://juejin.cn/post/7024922528514572302) #blog
