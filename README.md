@@ -1,3 +1,4 @@
+- [The Linux Command Line 中文版](https://www.kancloud.cn/thinkphp/linux-command-line/39431) #book
 - [逻辑学简短入门](https://wxflogic.gitbook.io/logic/) #book
 - [万字总结，体系化带你全面认识 Nginx ！](https://juejin.cn/post/6942607113118023710) #document
 - [Kubernetes指南](https://kubernetes.feisky.xyz) #book
