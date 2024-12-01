@@ -1,3 +1,4 @@
+- [Nginx 入门教程](https://xuexb.github.io/learn-nginx/guide/) #guide
 - [如何制作落地页](https://www.bmms.me/blog/landing-page) #guide
 - [网络设备、网络地址规划、静态路由](https://cloud.tencent.com/developer/article/1819831) #network
 - [k8s业务迁移与服务部署实践](https://www.cuiliangblog.cn/detail/article/52) #k8s
