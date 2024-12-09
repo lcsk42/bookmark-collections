@@ -1,3 +1,4 @@
+- [actualbudget/actual](https://github.com/actualbudget/actual) 个人理财工具 #todo
 - [Gitea Actions 搭建](https://seepine.com/git/gitea/actions/) #guide
 - [线上故障如何快速排查？](https://developer.aliyun.com/article/778128) #guide
 - [Nginx 入门教程](https://xuexb.github.io/learn-nginx/guide/) #guide
