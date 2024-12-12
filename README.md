@@ -1,3 +1,4 @@
+- [Good Docs Take Great Effort](https://er4hn.info/blog/2023.07.22-good_docs_great_effort/) #document
 - [Queueing – An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 - [Imperative vs Declarative Programming](https://ui.dev/c/react/imperative-vs-declarative) 命令式编程和声明式编程 #blog
 - [What's a Single-Page App?](https://jakelazaroff.com/words/whats-a-single-page-app/) #document
