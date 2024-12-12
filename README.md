@@ -1,3 +1,4 @@
+- [How to write](https://blog.gentlelucky.com/zh/2024/09/24/how-to-write/) #write
 - [Departure Mono](https://departuremono.com/) Cool Font
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts) #document
 - [Good Docs Take Great Effort](https://er4hn.info/blog/2023.07.22-good_docs_great_effort/) #document
