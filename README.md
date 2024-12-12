@@ -1,3 +1,4 @@
+- [Imperative vs Declarative Programming](https://ui.dev/c/react/imperative-vs-declarative) 命令式编程和声明式编程 #blog
 - [What's a Single-Page App?](https://jakelazaroff.com/words/whats-a-single-page-app/) #document
 - [Put business logic in the application, not the database](https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html) #document
 - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/) #document
