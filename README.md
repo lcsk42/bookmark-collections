@@ -1,3 +1,4 @@
+- [排版引擎纵谈：程序员的视角](https://blog.ppresume.com/posts/zh-cn/on-typesetting-engines) #document
 - [Handy Arrows](https://handyarrows.com/) 手绘箭头 #tools
 - [actualbudget/actual](https://github.com/actualbudget/actual) 个人理财工具 #todo
 - [Gitea Actions 搭建](https://seepine.com/git/gitea/actions/) #guide
