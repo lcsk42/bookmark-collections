@@ -1,3 +1,4 @@
+- [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts) #document
 - [Good Docs Take Great Effort](https://er4hn.info/blog/2023.07.22-good_docs_great_effort/) #document
 - [Queueing – An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 - [Imperative vs Declarative Programming](https://ui.dev/c/react/imperative-vs-declarative) 命令式编程和声明式编程 #blog
