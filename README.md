@@ -1,3 +1,4 @@
+- [What's a Single-Page App?](https://jakelazaroff.com/words/whats-a-single-page-app/) #document
 - [Put business logic in the application, not the database](https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html) #document
 - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/) #document
 - [亲密关系公约](https://mp.weixin.qq.com/s?__biz=MjM5MTg3MDA5NA==&mid=2650832540&idx=1&sn=a0d13ff19feea8db865cb1d81812c082&chksm=bd5a237d8a2daa6b1a6a65c39045f2e00ea8022968968e251a29ef213fb23513a1e8fb458e3d#rd)
