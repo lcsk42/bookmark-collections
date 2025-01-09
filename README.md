@@ -1,3 +1,4 @@
+- [Maven 可重现构建](https://www.haxi.cc/archives/maven-reproducible-builds.html) #guide
 - [Cursor AI Programming Tutorial](https://www.lookai.top) #guide
 - [英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
 - [Prometheus 标签全揭秘：从数据源到仪表盘](https://mp.weixin.qq.com/s/M6o74ME181iBZZkM42hmXw) #document
