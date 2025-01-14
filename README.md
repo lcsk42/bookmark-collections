@@ -1,3 +1,4 @@
+- [JVM 底层原理最全知识总结](https://doocs.github.io/jvm/) #document
 - [Maven 可重现构建](https://www.haxi.cc/archives/maven-reproducible-builds.html) #guide
 - [Cursor AI Programming Tutorial](https://www.lookai.top) #guide
 - [英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
