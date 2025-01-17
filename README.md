@@ -1,3 +1,4 @@
+- [自洽的程序员](https://self-consistent-coder.readthedocs.io/zh-cn/latest/) #book
 - [JVM 底层原理最全知识总结](https://doocs.github.io/jvm/) #document
 - [Maven 可重现构建](https://www.haxi.cc/archives/maven-reproducible-builds.html) #guide
 - [Cursor AI Programming Tutorial](https://www.lookai.top) #guide
