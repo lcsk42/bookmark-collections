@@ -1,3 +1,4 @@
+- [CSLN](https://zhiyu1998.github.io/Computer-Science-Learn-Notes/intro/) CS 笔记 #document
 - [一个自以为是的情感指南](https://relationship.ohevan.com/) #life
 - [自洽的程序员](https://self-consistent-coder.readthedocs.io/zh-cn/latest/) #book
 - [JVM 底层原理最全知识总结](https://doocs.github.io/jvm/) #document
