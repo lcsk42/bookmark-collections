@@ -1,3 +1,4 @@
+- [自洽的程序员](https://self-consistent-coder.readthedocs.io/) #book
 - [What is DevOps?](https://octopus.com/devops/) 方法论 #tutorial
 - [面向网络小白的基础网络和容器网络的科普](https://github.com/zhangguanzhang/simple-container-network-book) #guide
 - [一八零柒的食谱](https://food.sayidhe.com/#/) #life
