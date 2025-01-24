@@ -1,3 +1,4 @@
+- [How To Manage Dangerous Actions In User Interfaces — Smashing Magazine](https://www.smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/)
 - [Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/) #blog
 - [ProfileMe.dev](https://www.profileme.dev/) Github Home Page
 - [System Design](https://blog.algomaster.io/) low level
