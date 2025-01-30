@@ -1,3 +1,4 @@
+- [CS自学指南](https://csdiy.wiki/) #interesting
 - [Go by Example 中文版](https://gobyexample-cn.github.io/) #tutorial
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) 自洽的程序员 #book
 - [Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
