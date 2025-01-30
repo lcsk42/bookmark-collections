@@ -1,3 +1,4 @@
+- [Go by Example 中文版](https://gobyexample-cn.github.io/) #tutorial
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) 自洽的程序员 #book
 - [Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 - [How To Manage Dangerous Actions In User Interfaces — Smashing Magazine](https://www.smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/)
