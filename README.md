@@ -1,3 +1,4 @@
+- [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
 - [Deepseek R1可能找到了超越人类的办法](https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/) #ai
 - [CS自学指南](https://csdiy.wiki/) #interesting
 - [Go by Example 中文版](https://gobyexample-cn.github.io/) #tutorial
