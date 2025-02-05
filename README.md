@@ -1,3 +1,4 @@
+- [Build systems and bundlers](https://github.com/orgs/web-infra-dev/discussions/24) 解释构建系统和捆绑程序的文章
 - [《软件设计的哲学》](https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/) #book
 - [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
 - [Deepseek R1可能找到了超越人类的办法](https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/) #ai
