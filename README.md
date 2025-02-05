@@ -1,3 +1,4 @@
+- [Deepseek R1可能找到了超越人类的办法](https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/) #ai
 - [CS自学指南](https://csdiy.wiki/) #interesting
 - [Go by Example 中文版](https://gobyexample-cn.github.io/) #tutorial
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) 自洽的程序员 #book
