@@ -1,3 +1,4 @@
+- [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html) #guide
 - [Turing Machines](https://samwho.dev/turing-machines/) 动态图灵机 #computer
 - [Text to ASCII: The best ASCII Art Generator & Maker](https://www.asciiart.eu/text-to-ascii-art) #tools
 - [Build systems and bundlers](https://github.com/orgs/web-infra-dev/discussions/24) 解释构建系统和捆绑程序的文章
