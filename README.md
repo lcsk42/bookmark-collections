@@ -1,3 +1,4 @@
+- [Kubernetes 实践指南](https://imroc.cc/kubernetes/)
 - [算法通关手册（LeetCode）](https://algo.itcharge.cn/)
 - [技术摘抄](https://lianglianglee.com/)
 - [Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) #book
