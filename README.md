@@ -1,3 +1,4 @@
+- [How to write exceptional documentation](https://chrisnicholas.dev/blog/how-to-write-exceptional-documentation)
 - [插画文件](https://vectorcraftr.com/)
 - [Kubernetes 实践指南](https://imroc.cc/kubernetes/)
 - [算法通关手册（LeetCode）](https://algo.itcharge.cn/)
