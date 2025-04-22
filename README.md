@@ -1,3 +1,4 @@
+- [A system to organise your life](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 - [Dev Encyclopedia | A dictionary for programmers](https://devpedia.dev)
 - [data-maki/flowtoken](https://github.com/data-maki/flowtoken) A UI library to animate and style streaming LLM output
 - [Previewing Content Changes In Your Work With document.designMode](https://www.smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/)
