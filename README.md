@@ -1,3 +1,4 @@
+- [线上故障应急处理：4 年多 on call 经验总结](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
 - [八条对话规则](https://geedea.pro/cards/%E5%85%AC%E6%B0%91%E8%AE%BA%E5%9D%9B-%E5%85%AB%E6%9D%A1%E5%AF%B9%E8%AF%9D%E8%A7%84%E5%88%99/)
 - [A system to organise your life](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 - [Dev Encyclopedia | A dictionary for programmers](https://devpedia.dev)
