@@ -1,3 +1,4 @@
+- [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/)
 - [Kubernetes 基础教程 | Jimmy Song](https://jimmysong.io/book/kubernetes-handbook/)
 - [线上故障应急处理：4 年多 on call 经验总结](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
 - [八条对话规则](https://geedea.pro/cards/%E5%85%AC%E6%B0%91%E8%AE%BA%E5%9D%9B-%E5%85%AB%E6%9D%A1%E5%AF%B9%E8%AF%9D%E8%A7%84%E5%88%99/)
