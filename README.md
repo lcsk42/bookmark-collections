@@ -1,3 +1,4 @@
+- [K8S Pod 容器内 Java 进程内存分析，内存虚高以及容器 OOM 或 Jave OOM 问题定位](https://www.xlabs.club/blog/java-memory/) #guide
 - [容器镜像制作最佳实践](https://www.xlabs.club/blog/docker-best-practices/) #docker
 - [The real value isn’t in the code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 - [Health Art](https://health.art/)
