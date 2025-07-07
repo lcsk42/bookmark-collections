@@ -1,3 +1,4 @@
+- [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for) #guide
 - [互联网人保命指南 - Feishu Docs](https://p8tchgpz2u.feishu.cn/docx/OSS3dwoeeogJYixmVoUcuLkNnre)
 - [浅谈限流算法](https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html) #tutorial
 - [K8S Pod 容器内 Java 进程内存分析，内存虚高以及容器 OOM 或 Jave OOM 问题定位](https://www.xlabs.club/blog/java-memory/) #guide
