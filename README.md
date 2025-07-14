@@ -1,3 +1,4 @@
+- [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh-cn/latest/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%8C%87%E5%8D%97.html)
 - [Learn REST API Design  -  REST API Tutorial](https://www.restapitutorial.com/) #guide
 - [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for) #guide
 - [互联网人保命指南 - Feishu Docs](https://p8tchgpz2u.feishu.cn/docx/OSS3dwoeeogJYixmVoUcuLkNnre)
