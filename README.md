@@ -1,3 +1,4 @@
+- [Learn REST API Design  -  REST API Tutorial](https://www.restapitutorial.com/) #guide
 - [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for) #guide
 - [互联网人保命指南 - Feishu Docs](https://p8tchgpz2u.feishu.cn/docx/OSS3dwoeeogJYixmVoUcuLkNnre)
 - [浅谈限流算法](https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html) #tutorial
