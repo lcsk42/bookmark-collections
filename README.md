@@ -1,3 +1,4 @@
+- [JDK Download Page](https://injdk.cn/)
 - [来人传真经，男女恋爱的基本等式](https://nga.178.com/read.php?tid=38780091&rand=209)
 - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh-cn/latest/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%8C%87%E5%8D%97.html)
 - [Learn REST API Design  -  REST API Tutorial](https://www.restapitutorial.com/) #guide
