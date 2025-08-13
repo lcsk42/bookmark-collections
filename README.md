@@ -1,3 +1,4 @@
+- [近几年我在职场踩过的坑](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
 - [谈 Kubernetes 的架构设计与实现原理 - 面向信仰编程](https:/draven.co/understanding-kubernetes)
 - [JDK Download Page](https://injdk.cn/)
 - [来人传真经，男女恋爱的基本等式](https://nga.178.com/read.php?tid=38780091&rand=209)
