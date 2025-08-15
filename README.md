@@ -1,3 +1,4 @@
+- [怎样改进英式中文?——论中文的常态与变态 | 余光中](https://liujunyi271828.github.io/chinglish/)
 - [近几年我在职场踩过的坑](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
 - [谈 Kubernetes 的架构设计与实现原理 - 面向信仰编程](https:/draven.co/understanding-kubernetes)
 - [JDK Download Page](https://injdk.cn/)
