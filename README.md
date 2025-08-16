@@ -1,3 +1,4 @@
+- [API design guide  |  Cloud API Design Guide  |  Google Cloud](https://cloud.google.com/apis/design)
 - [“一把梭：REST API 全用 POST” | 酷 壳 - CoolShell](https://coolshell.cn/articles/22173.html)
 - [Google 技术写作](https://docs.google.com/document/d/16aoMrMGHPIR1i_eUNRvksdDdwcDG6KiOJN6Vfh-n8-s/edit?tab=t.0#heading=h.2o89lfunn1li)
 - [我做系统架构的一些原则 | 酷 壳 - CoolShell](https://coolshell.cn/articles/21672.html)
