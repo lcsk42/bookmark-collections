@@ -1,3 +1,4 @@
+- [Google 技术写作](https://docs.google.com/document/d/16aoMrMGHPIR1i_eUNRvksdDdwcDG6KiOJN6Vfh-n8-s/edit?tab=t.0#heading=h.2o89lfunn1li)
 - [我做系统架构的一些原则 | 酷 壳 - CoolShell](https://coolshell.cn/articles/21672.html)
 - [怎样改进英式中文?——论中文的常态与变态 | 余光中](https://liujunyi271828.github.io/chinglish/)
 - [近几年我在职场踩过的坑](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
