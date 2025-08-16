@@ -1,3 +1,4 @@
+- [Load Balancing 负载均衡](https://samwho.dev/load-balancing/)
 - [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 - [API design guide  |  Cloud API Design Guide  |  Google Cloud](https://cloud.google.com/apis/design)
 - [“一把梭：REST API 全用 POST” | 酷 壳 - CoolShell](https://coolshell.cn/articles/22173.html)
