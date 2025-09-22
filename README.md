@@ -1,3 +1,4 @@
+- [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
 - [软件设计的哲学](https://ramsayleung.github.io/zh/post/2025/a_philosophy_of_software_design/)
