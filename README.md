@@ -1,3 +1,4 @@
+- [简明写作指南](https://ramsayleung.github.io/zh/post/2024/%E7%AE%80%E6%98%8E%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/)
 - [Load Balancing 负载均衡](https://samwho.dev/load-balancing/)
 - [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 - [API design guide  |  Cloud API Design Guide  |  Google Cloud](https://cloud.google.com/apis/design)
