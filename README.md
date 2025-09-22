@@ -1,3 +1,4 @@
+- [Be Simple | corrode Rust Consulting](https://corrode.dev/blog/simple/)
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
