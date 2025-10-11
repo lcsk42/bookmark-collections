@@ -1,3 +1,4 @@
+- [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) #blog
 - [Be Simple | corrode Rust Consulting](https://corrode.dev/blog/simple/)
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
