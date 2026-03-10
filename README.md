@@ -1,3 +1,4 @@
+- [设计数据密集型应用（第二版）](http://ddia.vonng.com/)
 - [约定式分支](https://conventional-branch.github.io/zh/)
 - [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) #blog
 - [Be Simple | corrode Rust Consulting](https://corrode.dev/blog/simple/)
