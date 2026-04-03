@@ -1,3 +1,4 @@
+- [Learn Claude Code Interactively](https://claude.nagdy.me/) #tutorial
 - [AI 是怎么回事](https://wmyskxz.cn/wiki/whats_ai/)
 - [设计数据密集型应用（第二版）](http://ddia.vonng.com/)
 - [约定式分支](https://conventional-branch.github.io/zh/)
