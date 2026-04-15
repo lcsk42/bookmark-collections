@@ -1,3 +1,4 @@
+- [Fantasy-Land-Specification](https://adispring.github.io/2018/09/08/Fantasy-Land-Specification/)
 - [解码 Agent Harness — Claude Code 架构深度剖析](https://lintsinghua.github.io/)
 - [Learn Claude Code Interactively](https://claude.nagdy.me/) #tutorial
 - [AI 是怎么回事](https://wmyskxz.cn/wiki/whats_ai/)
