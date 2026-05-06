@@ -1,3 +1,4 @@
+- [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [What Async Promised and What it Delivered — Causality](https://causality.blog/essays/what-async-promised/)
 - [Fantasy-Land-Specification](https://adispring.github.io/2018/09/08/Fantasy-Land-Specification/)
