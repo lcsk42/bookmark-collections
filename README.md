@@ -1,3 +1,4 @@
+- [一段内存的多重死亡 — 11 个 GC 家族的家谱](https://ursb.me/immersive/gc/)
 - [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [What Async Promised and What it Delivered — Causality](https://causality.blog/essays/what-async-promised/)
