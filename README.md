@@ -1,3 +1,4 @@
+- [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging)
 - [独立开发穷鬼套餐(Web实践篇)](https://guangzhengli.com/blog/zh/indie-hacker-poor-stack)
 - [English Grammar Rules | The Blue Book of Grammar and Punctuation](https://www.grammarbook.com/english_rules.asp)
 - [全部模式 | Battle-Tested Patterns](https://totoro-jam.github.io/battle-tested-patterns/patterns/)
