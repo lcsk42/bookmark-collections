@@ -1,3 +1,4 @@
+- [软件设计的哲学，第二版](https://yingang.github.io/aposd2e-zh/ch01.html)
 - [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging)
 - [独立开发穷鬼套餐(Web实践篇)](https://guangzhengli.com/blog/zh/indie-hacker-poor-stack)
 - [English Grammar Rules | The Blue Book of Grammar and Punctuation](https://www.grammarbook.com/english_rules.asp)
